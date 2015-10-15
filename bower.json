@@ -1,0 +1,25 @@
+{
+  "name": "pbkdf2",
+  "version": "1.0.0",
+  "authors": [
+    "AJ ONeal <awesome@coolaj86.com>"
+  ],
+  "description": "Benchmark PBKDF2 algos.",
+  "main": "scripts/pbkdf2.js",
+  "moduleType": [],
+  "keywords": [
+    "PBKDF2",
+    "forge",
+    "crypto"
+  ],
+  "license": "Apache-v2",
+  "homepage": "https://daplie.com/pbkdf2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
