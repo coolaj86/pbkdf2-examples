@@ -1,3 +1,7 @@
+if (('localhost' !== window.location.host) && (window.location.protocol != "https:")) {
+  window.location.protocol = "https";
+}
+
 $(function () {
   'use strict';
 
